@@ -1,4 +1,4 @@
-Project title - SQL Portfolio Project – Mobile Phone Store Sales Analysis 
+Project title – Mobile Phone Store Sales Analysis 
 
 Tool used - MySQL Workbench
 
